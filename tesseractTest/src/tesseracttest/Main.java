@@ -13,7 +13,7 @@ import net.sourceforge.tess4j.*;
  
 public class Main {
 public static void main(String[] args) {
-File imageFile = new File("C:\\Users\\Ali\\Desktop\\testimg1.png");
+File imageFile = new File("testimg1.png");
 Tesseract instance = Tesseract.getInstance(); //
  
 try {
